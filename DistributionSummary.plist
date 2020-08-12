@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GalleryViewer.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF</string>
+				<key>dateExpires</key>
+				<string>01/01/21</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>8XPT93F9Q7.com.akhilg.galleryviewer</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>8XPT93F9Q7</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>8XPT93F9Q7.com.akhilg.galleryviewer</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>GalleryViewer.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>79f9496b-ab06-4e68-8304-d895fc243682</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.akhilg.galleryviewer</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>8XPT93F9Q7</string>
+				<key>name</key>
+				<string>BinaryLife Inc</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
