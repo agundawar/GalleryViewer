@@ -1,0 +1,385 @@
+2020-02-13 06:42:45 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fce1a3f3d90; archive(resolved)='<IDEArchive: 0x7fce1a6f0310>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodDevelopmentSigned: 0x7fcdfe1c44c0>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fce16166540; teamID='8XPT93F9Q7', teamName='BinaryLife Inc', teamType='Enterprise', username='akhil.g@browserstack.com', isFreeProvisioningTeam='0'>'>
+	Chain (13, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fce1a3f3d90; archive = '<IDEArchive: 0x7fce1a6f0310>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fcdfe1c44c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fce16166540; teamID='8XPT93F9Q7', teamName='BinaryLife Inc', teamType='Enterprise', username='akhil.g@browserstack.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fce104c9280; archive = '<IDEArchive: 0x7fce1a6f0310>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fcdfe1c44c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fce16166540; teamID='8XPT93F9Q7', teamName='BinaryLife Inc', teamType='Enterprise', username='akhil.g@browserstack.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fce1c486270; archive = '<IDEArchive: 0x7fce1a6f0310>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fcdfe1c44c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fce16166540; teamID='8XPT93F9Q7', teamName='BinaryLife Inc', teamType='Enterprise', username='akhil.g@browserstack.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fce1c4a5f20; archive = '<IDEArchive: 0x7fce1a6f0310>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fcdfe1c44c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fce16166540; teamID='8XPT93F9Q7', teamName='BinaryLife Inc', teamType='Enterprise', username='akhil.g@browserstack.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fce16031860; archive = '<IDEArchive: 0x7fce1a6f0310>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fcdfe1c44c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fce16166540; teamID='8XPT93F9Q7', teamName='BinaryLife Inc', teamType='Enterprise', username='akhil.g@browserstack.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fce1c456e30; archive = '<IDEArchive: 0x7fce1a6f0310>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fcdfe1c44c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fce16166540; teamID='8XPT93F9Q7', teamName='BinaryLife Inc', teamType='Enterprise', username='akhil.g@browserstack.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fce1c4e8e60; archive = '<IDEArchive: 0x7fce1a6f0310>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fcdfe1c44c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fce16166540; teamID='8XPT93F9Q7', teamName='BinaryLife Inc', teamType='Enterprise', username='akhil.g@browserstack.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fce1b255780; archive = '<IDEArchive: 0x7fce1a6f0310>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fcdfe1c44c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fce16166540; teamID='8XPT93F9Q7', teamName='BinaryLife Inc', teamType='Enterprise', username='akhil.g@browserstack.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fce1608cd80; archive = '<IDEArchive: 0x7fce1a6f0310>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fcdfe1c44c0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fce16166540; teamID='8XPT93F9Q7', teamName='BinaryLife Inc', teamType='Enterprise', username='akhil.g@browserstack.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fce15641ea0; archive = '<IDEArchive: 0x7fce1a6f0310>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fcdfe1c44c0>', team='(null)'>
+	<IDEDistributionContext: 0x7fce15616bb0; archive = '<IDEArchive: 0x7fce1a6f0310>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fcdfe1c44c0>', team='(null)'>
+	<IDEDistributionContext: 0x7fce1562ed50; archive = '<IDEArchive: 0x7fce1a6f0310>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fcdfe1c44c0>', team='(null)'>
+	<IDEDistributionContext: 0x7fcdfde57410; archive = '<IDEArchive: 0x7fce1a6f0310>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fce1a3f3d90>
+2020-02-13 06:42:45 +0000  Processing step: IDEDistributionCreateDestRootStep
+2020-02-13 06:42:45 +0000  Processing step: IDEDistributionCopyItemStep
+2020-02-13 06:42:45 +0000  Running /usr/bin/ditto '-V' '/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app'
+2020-02-13 06:42:45 +0000  >>> Copying /Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app 
+2020-02-13 06:42:45 +0000  copying file ./_CodeSignature/CodeResources ... 
+2020-02-13 06:42:45 +0000  8491 bytes for ./_CodeSignature/CodeResources
+2020-02-13 06:42:45 +0000  copying file ./GalleryViewer ... 
+2020-02-13 06:42:45 +0000  277072 bytes for ./GalleryViewer
+2020-02-13 06:42:45 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-q19-YH-SsM.nib/objects-13.0+.nib ... 
+2020-02-13 06:42:45 +0000  992 bytes for ./Base.lproj/Main.storyboardc/UIViewController-q19-YH-SsM.nib/objects-13.0+.nib
+copying file ./Base.lproj/Main.storyboardc/UIViewController-q19-YH-SsM.nib/runtime.nib ... 
+2020-02-13 06:42:45 +0000  992 bytes for ./Base.lproj/Main.storyboardc/UIViewController-q19-YH-SsM.nib/runtime.nib
+2020-02-13 06:42:45 +0000  copying file ./Base.lproj/Main.storyboardc/q19-YH-SsM-view-ZQU-ZK-8Xr.nib/objects-13.0+.nib ... 
+2020-02-13 06:42:45 +0000  2432 bytes for ./Base.lproj/Main.storyboardc/q19-YH-SsM-view-ZQU-ZK-8Xr.nib/objects-13.0+.nib
+2020-02-13 06:42:45 +0000  copying file ./Base.lproj/Main.storyboardc/q19-YH-SsM-view-ZQU-ZK-8Xr.nib/runtime.nib ... 
+2020-02-13 06:42:45 +0000  2432 bytes for ./Base.lproj/Main.storyboardc/q19-YH-SsM-view-ZQU-ZK-8Xr.nib/runtime.nib
+2020-02-13 06:42:45 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/objects-13.0+.nib ... 
+2020-02-13 06:42:45 +0000  1239 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/objects-13.0+.nib
+2020-02-13 06:42:45 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/runtime.nib ... 
+2020-02-13 06:42:45 +0000  1239 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/runtime.nib
+2020-02-13 06:42:45 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib ... 
+2020-02-13 06:42:45 +0000  3623 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib
+2020-02-13 06:42:45 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib ... 
+2020-02-13 06:42:45 +0000  3621 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib
+2020-02-13 06:42:45 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2020-02-13 06:42:45 +0000  333 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2020-02-13 06:42:45 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib ... 
+2020-02-13 06:42:45 +0000  1197 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib
+2020-02-13 06:42:45 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib ... 
+2020-02-13 06:42:45 +0000  1197 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib
+2020-02-13 06:42:45 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib ... 
+2020-02-13 06:42:45 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib
+2020-02-13 06:42:45 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib ... 
+2020-02-13 06:42:45 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib
+2020-02-13 06:42:45 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2020-02-13 06:42:45 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2020-02-13 06:42:45 +0000  copying file ./Frameworks/libswiftObjectiveC.dylib ... 
+2020-02-13 06:42:45 +0000  679680 bytes for ./Frameworks/libswiftObjectiveC.dylib
+2020-02-13 06:42:45 +0000  copying file ./Frameworks/libswiftCore.dylib ... 
+2020-02-13 06:42:45 +0000  95497584 bytes for ./Frameworks/libswiftCore.dylib
+copying file ./Frameworks/libswiftCoreGraphics.dylib ... 
+2020-02-13 06:42:45 +0000  2041040 bytes for ./Frameworks/libswiftCoreGraphics.dylib
+2020-02-13 06:42:45 +0000  copying file ./Frameworks/libswiftDispatch.dylib ... 
+2020-02-13 06:42:45 +0000  4056912 bytes for ./Frameworks/libswiftDispatch.dylib
+2020-02-13 06:42:45 +0000  copying file ./Frameworks/libswiftCoreFoundation.dylib ... 
+450384 bytes for ./Frameworks/libswiftCoreFoundation.dylib
+copying file ./Frameworks/libswiftDarwin.dylib ... 
+2020-02-13 06:42:45 +0000  1091440 bytes for ./Frameworks/libswiftDarwin.dylib
+copying file ./Frameworks/libswiftFoundation.dylib ... 
+2020-02-13 06:42:45 +0000  43094320 bytes for ./Frameworks/libswiftFoundation.dylib
+2020-02-13 06:42:45 +0000  /usr/bin/ditto exited with 0
+2020-02-13 06:42:45 +0000  copying file ./embedded.mobileprovision ... 
+37776 bytes for ./embedded.mobileprovision
+copying file ./Info.plist ... 
+1476 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+8 bytes for ./PkgInfo
+2020-02-13 06:42:45 +0000  Processing step: IDEDistributionEmbedProfileStep
+2020-02-13 06:42:45 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fce1c470290; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fcdfe15dc60:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c4a77f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1c43d0a0; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fcdfe15dc60:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2020-02-13 06:42:45 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fce1c43bb70; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fce1c44ea30:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1563e9e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce16073b10; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fce1c44ea30:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2020-02-13 06:42:45 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fce156d3df0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fce1d8a56b0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c51a550; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1c43d0a0; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fce1d8a56b0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2020-02-13 06:42:45 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fce16612500; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fce1d8b2830:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c4b4570; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1c43d0a0; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fce1d8b2830:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2020-02-13 06:42:45 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fcdfdea0860; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fce1c464ce0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c4e7620; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1c43d0a0; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fce1c464ce0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2020-02-13 06:42:45 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fce1c465d40; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fcdfde1bee0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c4f3da0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1c43d0a0; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fcdfde1bee0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2020-02-13 06:42:45 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fce1c47c680; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fce134d0cb0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c452be0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1c43d0a0; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fce134d0cb0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2020-02-13 06:42:45 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2020-02-13 06:42:45 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2020-02-13 06:42:45 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2020-02-13 06:42:45 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2020-02-13 06:42:45 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2020-02-13 06:42:45 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-02-13 06:42:45 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-02-13 06:42:45 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-02-13 06:42:45 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-02-13 06:42:45 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-02-13 06:42:45 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-02-13 06:42:45 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-02-13 06:42:45 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2020-02-13 06:42:45 +0000  Processing step: IDEDistributionSymbolsStep
+2020-02-13 06:42:45 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-02-13 06:42:45 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-02-13 06:42:45 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-02-13 06:42:45 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-02-13 06:42:45 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-02-13 06:42:45 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-02-13 06:42:45 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-02-13 06:42:45 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2020-02-13 06:42:45 +0000  Processing step: IDEDistributionAppThinningStep
+2020-02-13 06:42:45 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2020-02-13 06:42:45 +0000  Processing step: IDEDistributionArchThinningStep
+2020-02-13 06:42:45 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftCore.dylib' '-verify_arch' 'arm64e'
+2020-02-13 06:42:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-02-13 06:42:45 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftCore.dylib'
+2020-02-13 06:42:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-02-13 06:42:45 +0000  Successfully thinned item "libswiftCore.dylib", arch "arm64e"
+2020-02-13 06:42:45 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftCoreFoundation.dylib' '-verify_arch' 'arm64e'
+2020-02-13 06:42:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-02-13 06:42:45 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftCoreFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftCoreFoundation.dylib'
+2020-02-13 06:42:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-02-13 06:42:45 +0000  Successfully thinned item "libswiftCoreFoundation.dylib", arch "arm64e"
+2020-02-13 06:42:45 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftCoreGraphics.dylib' '-verify_arch' 'arm64e'
+2020-02-13 06:42:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-02-13 06:42:45 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftCoreGraphics.dylib' '-remove' 'arm64e' '-output' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftCoreGraphics.dylib'
+2020-02-13 06:42:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-02-13 06:42:45 +0000  Successfully thinned item "libswiftCoreGraphics.dylib", arch "arm64e"
+2020-02-13 06:42:45 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftDarwin.dylib' '-verify_arch' 'arm64e'
+2020-02-13 06:42:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-02-13 06:42:45 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftDarwin.dylib' '-remove' 'arm64e' '-output' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftDarwin.dylib'
+2020-02-13 06:42:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-02-13 06:42:45 +0000  Successfully thinned item "libswiftDarwin.dylib", arch "arm64e"
+2020-02-13 06:42:45 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftDispatch.dylib' '-verify_arch' 'arm64e'
+2020-02-13 06:42:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-02-13 06:42:45 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftDispatch.dylib' '-remove' 'arm64e' '-output' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftDispatch.dylib'
+2020-02-13 06:42:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-02-13 06:42:45 +0000  Successfully thinned item "libswiftDispatch.dylib", arch "arm64e"
+2020-02-13 06:42:45 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftFoundation.dylib' '-verify_arch' 'arm64e'
+2020-02-13 06:42:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-02-13 06:42:45 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftFoundation.dylib'
+2020-02-13 06:42:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-02-13 06:42:45 +0000  Successfully thinned item "libswiftFoundation.dylib", arch "arm64e"
+2020-02-13 06:42:45 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftObjectiveC.dylib' '-verify_arch' 'arm64e'
+2020-02-13 06:42:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-02-13 06:42:45 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftObjectiveC.dylib' '-remove' 'arm64e' '-output' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftObjectiveC.dylib'
+2020-02-13 06:42:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2020-02-13 06:42:45 +0000  Successfully thinned item "libswiftObjectiveC.dylib", arch "arm64e"
+2020-02-13 06:42:45 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/GalleryViewer' '-verify_arch' 'arm64e'
+2020-02-13 06:42:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-02-13 06:42:45 +0000  Skipping architecture thinning for item "GalleryViewer" because arch "arm64e" wasn't found
+2020-02-13 06:42:45 +0000  Processing step: IDEDistributionODRStep
+2020-02-13 06:42:45 +0000  Processing step: IDEDistributionStripXattrsStep
+2020-02-13 06:42:45 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fce1c470290; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fcdfe15dc60:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c4a77f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1d8dc990; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fcdfe15dc60:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2020-02-13 06:42:45 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fce1c43bb70; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fce1c44ea30:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1563e9e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1c43d0a0; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fce1c44ea30:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2020-02-13 06:42:45 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fce156d3df0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fce1d8a56b0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c51a550; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1a3cd750; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fce1d8a56b0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2020-02-13 06:42:45 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fce16612500; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fce1d8b2830:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c4b4570; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1d853af0; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fce1d8b2830:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2020-02-13 06:42:45 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fcdfdea0860; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fce1c464ce0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c4e7620; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1c43d0a0; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fce1c464ce0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2020-02-13 06:42:45 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fce1c465d40; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fcdfde1bee0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c4f3da0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1c43d0a0; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fcdfde1bee0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2020-02-13 06:42:45 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fce1c47c680; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fce134d0cb0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c452be0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1c43d0a0; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fce134d0cb0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2020-02-13 06:42:45 +0000  Running /usr/bin/xattr '-crs' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app'
+2020-02-13 06:42:46 +0000  /usr/bin/xattr exited with 0
+2020-02-13 06:42:46 +0000  Processing step: IDEDistributionCodesignStep
+2020-02-13 06:42:46 +0000  Entitlements for <IDEDistributionItem: 0x7fce1c470290; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fcdfe15dc60:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c4a77f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1d8ad220; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fcdfe15dc60:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-02-13 06:42:46 +0000  Writing entitlements for <IDEDistributionItem: 0x7fce1c470290; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fcdfe15dc60:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c4a77f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce17f7c590; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fcdfe15dc60:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'> to: /var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/entitlements~~~5bYs6r
+2020-02-13 06:42:46 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF' '--entitlements' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/entitlements~~~5bYs6r' '--preserve-metadata=identifier,flags,runtime' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftCore.dylib'
+2020-02-13 06:42:46 +0000  /var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCore]
+2020-02-13 06:42:46 +0000  /usr/bin/codesign exited with 0
+2020-02-13 06:42:46 +0000  Entitlements for <IDEDistributionItem: 0x7fce1c43bb70; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fce1c44ea30:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1563e9e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1a3cd750; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fce1c44ea30:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-02-13 06:42:46 +0000  Writing entitlements for <IDEDistributionItem: 0x7fce1c43bb70; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fce1c44ea30:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1563e9e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce17f7c590; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fce1c44ea30:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/entitlements~~~YkOb0k
+2020-02-13 06:42:46 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF' '--entitlements' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/entitlements~~~YkOb0k' '--preserve-metadata=identifier,flags,runtime' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftCoreFoundation.dylib'
+2020-02-13 06:42:46 +0000  /var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreFoundation]
+2020-02-13 06:42:46 +0000  /usr/bin/codesign exited with 0
+2020-02-13 06:42:46 +0000  Entitlements for <IDEDistributionItem: 0x7fce156d3df0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fce1d8a56b0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c51a550; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce13478c30; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fce1d8a56b0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-02-13 06:42:46 +0000  Writing entitlements for <IDEDistributionItem: 0x7fce156d3df0; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fce1d8a56b0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c51a550; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce17f4fdd0; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fce1d8a56b0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'> to: /var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/entitlements~~~Gw9Z4L
+2020-02-13 06:42:46 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF' '--entitlements' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/entitlements~~~Gw9Z4L' '--preserve-metadata=identifier,flags,runtime' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftCoreGraphics.dylib'
+2020-02-13 06:42:46 +0000  /var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreGraphics]
+2020-02-13 06:42:46 +0000  /usr/bin/codesign exited with 0
+2020-02-13 06:42:46 +0000  Entitlements for <IDEDistributionItem: 0x7fce16612500; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fce1d8b2830:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c4b4570; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1c4496c0; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fce1d8b2830:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-02-13 06:42:46 +0000  Writing entitlements for <IDEDistributionItem: 0x7fce16612500; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fce1d8b2830:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c4b4570; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1c4afe20; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fce1d8b2830:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'> to: /var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/entitlements~~~XecQTf
+2020-02-13 06:42:46 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF' '--entitlements' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/entitlements~~~XecQTf' '--preserve-metadata=identifier,flags,runtime' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftDarwin.dylib'
+2020-02-13 06:42:46 +0000  /var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftDarwin.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDarwin]
+2020-02-13 06:42:46 +0000  /usr/bin/codesign exited with 0
+2020-02-13 06:42:46 +0000  Entitlements for <IDEDistributionItem: 0x7fcdfdea0860; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fce1c464ce0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c4e7620; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1c4496c0; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fce1c464ce0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-02-13 06:42:46 +0000  Writing entitlements for <IDEDistributionItem: 0x7fcdfdea0860; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fce1c464ce0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c4e7620; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1c4afe20; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fce1c464ce0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'> to: /var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/entitlements~~~DG6ZYs
+2020-02-13 06:42:46 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF' '--entitlements' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/entitlements~~~DG6ZYs' '--preserve-metadata=identifier,flags,runtime' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftDispatch.dylib'
+2020-02-13 06:42:46 +0000  /var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftDispatch.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDispatch]
+2020-02-13 06:42:46 +0000  /usr/bin/codesign exited with 0
+2020-02-13 06:42:46 +0000  Entitlements for <IDEDistributionItem: 0x7fce1c465d40; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fcdfde1bee0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c4f3da0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1d80a530; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fcdfde1bee0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-02-13 06:42:46 +0000  Writing entitlements for <IDEDistributionItem: 0x7fce1c465d40; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fcdfde1bee0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c4f3da0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1a3d1370; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fcdfde1bee0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/entitlements~~~B4DgFr
+2020-02-13 06:42:46 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF' '--entitlements' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/entitlements~~~B4DgFr' '--preserve-metadata=identifier,flags,runtime' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftFoundation.dylib'
+2020-02-13 06:42:46 +0000  /var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftFoundation]
+2020-02-13 06:42:46 +0000  /usr/bin/codesign exited with 0
+2020-02-13 06:42:46 +0000  Entitlements for <IDEDistributionItem: 0x7fce1c47c680; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fce134d0cb0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c452be0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1d8b2a40; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fce134d0cb0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>: {
+}
+2020-02-13 06:42:46 +0000  Writing entitlements for <IDEDistributionItem: 0x7fce1c47c680; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fce134d0cb0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c452be0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1c4496c0; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='(null)', teamID='8XPT93F9Q7', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fce134d0cb0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'> to: /var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/entitlements~~~7guHJh
+2020-02-13 06:42:46 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF' '--entitlements' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/entitlements~~~7guHJh' '--preserve-metadata=identifier,flags,runtime' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftObjectiveC.dylib'
+2020-02-13 06:42:46 +0000  /var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app/Frameworks/libswiftObjectiveC.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftObjectiveC]
+2020-02-13 06:42:46 +0000  /usr/bin/codesign exited with 0
+2020-02-13 06:42:46 +0000  Entitlements for <IDEDistributionItem: 0x7fce1c424ac0; bundleID='com.akhilg.galleryviewer', path='<DVTFilePath:0x7fcdfe18cbc0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c45d3e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1a3d7270; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='{
+    "application-identifier" = "8XPT93F9Q7.com.akhilg.galleryviewer";
+    "com.apple.developer.team-identifier" = 8XPT93F9Q7;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "8XPT93F9Q7.com.akhilg.galleryviewer"
+    );
+}', teamID='8XPT93F9Q7', identifier='com.akhilg.galleryviewer', executablePath='<DVTFilePath:0x7fce1c4b7fa0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/GalleryViewer'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "8XPT93F9Q7.com.akhilg.galleryviewer";
+    "com.apple.developer.team-identifier" = 8XPT93F9Q7;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "8XPT93F9Q7.com.akhilg.galleryviewer"
+    );
+}
+2020-02-13 06:42:46 +0000  Writing entitlements for <IDEDistributionItem: 0x7fce1c424ac0; bundleID='com.akhilg.galleryviewer', path='<DVTFilePath:0x7fcdfe18cbc0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fce1c45d3e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fce1c4496c0; name='Apple Development: Akhil Gundawar (UZD34PFTV3)', hash='0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF', serialNumber='7F827A43E26AEB4C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-01-02 10:59:01 +0000''>', entitlements='{
+    "application-identifier" = "8XPT93F9Q7.com.akhilg.galleryviewer";
+    "com.apple.developer.team-identifier" = 8XPT93F9Q7;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "8XPT93F9Q7.com.akhilg.galleryviewer"
+    );
+}', teamID='8XPT93F9Q7', identifier='com.akhilg.galleryviewer', executablePath='<DVTFilePath:0x7fce1c4b7fa0:'/Users/akhilg/Library/Developer/Xcode/Archives/2020-02-13/GalleryViewer 13-02-20, 12.12 PM.xcarchive/Products/Applications/GalleryViewer.app/GalleryViewer'>', hardenedRuntime='0'>'> to: /var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/entitlements~~~lqdlgA
+2020-02-13 06:42:46 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '0B66E5C9BAAA46D3BA90F3204B180F6FA9198EDF' '--entitlements' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/entitlements~~~lqdlgA' '--preserve-metadata=identifier,flags,runtime' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app'
+2020-02-13 06:42:47 +0000  /var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root/Payload/GalleryViewer.app: signed app bundle with Mach-O thin (arm64) [com.akhilg.galleryviewer]
+2020-02-13 06:42:47 +0000  /usr/bin/codesign exited with 0
+2020-02-13 06:42:47 +0000  Processing step: IDEDistributionZipODRItemStep
+2020-02-13 06:42:47 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-02-13 06:42:47 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-02-13 06:42:47 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-02-13 06:42:47 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-02-13 06:42:47 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-02-13 06:42:47 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-02-13 06:42:47 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-02-13 06:42:47 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-02-13 06:42:47 +0000  Processing step: IDEDistributionCreateIPAStep
+2020-02-13 06:42:47 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root' '/var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Packages/GalleryViewer.ipa'
+2020-02-13 06:42:47 +0000  >>> Copying /var/folders/b2/lry7g9p91hg1xfvczmy29p1w0000gn/T/XcodeDistPipeline.~~~VvUWmA/Root 
+2020-02-13 06:42:47 +0000  copying file ./Payload/GalleryViewer.app/_CodeSignature/CodeResources ... 
+2020-02-13 06:42:47 +0000  8491 bytes for ./Payload/GalleryViewer.app/_CodeSignature/CodeResources
+copying file ./Payload/GalleryViewer.app/GalleryViewer ... 
+2020-02-13 06:42:47 +0000  95440 bytes for ./Payload/GalleryViewer.app/GalleryViewer
+2020-02-13 06:42:47 +0000  copying file ./Payload/GalleryViewer.app/Base.lproj/Main.storyboardc/UIViewController-q19-YH-SsM.nib/objects-13.0+.nib ... 
+2020-02-13 06:42:47 +0000  992 bytes for ./Payload/GalleryViewer.app/Base.lproj/Main.storyboardc/UIViewController-q19-YH-SsM.nib/objects-13.0+.nib
+copying file ./Payload/GalleryViewer.app/Base.lproj/Main.storyboardc/UIViewController-q19-YH-SsM.nib/runtime.nib ... 
+992 bytes for ./Payload/GalleryViewer.app/Base.lproj/Main.storyboardc/UIViewController-q19-YH-SsM.nib/runtime.nib
+2020-02-13 06:42:47 +0000  copying file ./Payload/GalleryViewer.app/Base.lproj/Main.storyboardc/q19-YH-SsM-view-ZQU-ZK-8Xr.nib/objects-13.0+.nib ... 
+2020-02-13 06:42:47 +0000  2432 bytes for ./Payload/GalleryViewer.app/Base.lproj/Main.storyboardc/q19-YH-SsM-view-ZQU-ZK-8Xr.nib/objects-13.0+.nib
+copying file ./Payload/GalleryViewer.app/Base.lproj/Main.storyboardc/q19-YH-SsM-view-ZQU-ZK-8Xr.nib/runtime.nib ... 
+2020-02-13 06:42:47 +0000  2432 bytes for ./Payload/GalleryViewer.app/Base.lproj/Main.storyboardc/q19-YH-SsM-view-ZQU-ZK-8Xr.nib/runtime.nib
+copying file ./Payload/GalleryViewer.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/objects-13.0+.nib ... 
+2020-02-13 06:42:47 +0000  1239 bytes for ./Payload/GalleryViewer.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/objects-13.0+.nib
+copying file ./Payload/GalleryViewer.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/runtime.nib ... 
+2020-02-13 06:42:47 +0000  1239 bytes for ./Payload/GalleryViewer.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/runtime.nib
+copying file ./Payload/GalleryViewer.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib ... 
+2020-02-13 06:42:47 +0000  3623 bytes for ./Payload/GalleryViewer.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib
+copying file ./Payload/GalleryViewer.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib ... 
+2020-02-13 06:42:47 +0000  3621 bytes for ./Payload/GalleryViewer.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib
+2020-02-13 06:42:47 +0000  copying file ./Payload/GalleryViewer.app/Base.lproj/Main.storyboardc/Info.plist ... 
+333 bytes for ./Payload/GalleryViewer.app/Base.lproj/Main.storyboardc/Info.plist
+2020-02-13 06:42:47 +0000  copying file ./Payload/GalleryViewer.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib ... 
+2020-02-13 06:42:47 +0000  1197 bytes for ./Payload/GalleryViewer.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib
+copying file ./Payload/GalleryViewer.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib ... 
+2020-02-13 06:42:47 +0000  1197 bytes for ./Payload/GalleryViewer.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib
+copying file ./Payload/GalleryViewer.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib ... 
+2020-02-13 06:42:47 +0000  896 bytes for ./Payload/GalleryViewer.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib
+copying file ./Payload/GalleryViewer.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib ... 
+2020-02-13 06:42:47 +0000  896 bytes for ./Payload/GalleryViewer.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib
+copying file ./Payload/GalleryViewer.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2020-02-13 06:42:47 +0000  258 bytes for ./Payload/GalleryViewer.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/GalleryViewer.app/Frameworks/libswiftObjectiveC.dylib ... 
+2020-02-13 06:42:47 +0000  302640 bytes for ./Payload/GalleryViewer.app/Frameworks/libswiftObjectiveC.dylib
+copying file ./Payload/GalleryViewer.app/Frameworks/libswiftCore.dylib ... 
+2020-02-13 06:42:47 +0000  16915040 bytes for ./Payload/GalleryViewer.app/Frameworks/libswiftCore.dylib
+copying file ./Payload/GalleryViewer.app/Frameworks/libswiftCoreGraphics.dylib ... 
+2020-02-13 06:42:47 +0000  646848 bytes for ./Payload/GalleryViewer.app/Frameworks/libswiftCoreGraphics.dylib
+copying file ./Payload/GalleryViewer.app/Frameworks/libswiftDispatch.dylib ... 
+2020-02-13 06:42:47 +0000  1018912 bytes for ./Payload/GalleryViewer.app/Frameworks/libswiftDispatch.dylib
+copying file ./Payload/GalleryViewer.app/Frameworks/libswiftCoreFoundation.dylib ... 
+2020-02-13 06:42:47 +0000  253792 bytes for ./Payload/GalleryViewer.app/Frameworks/libswiftCoreFoundation.dylib
+copying file ./Payload/GalleryViewer.app/Frameworks/libswiftDarwin.dylib ... 
+2020-02-13 06:42:47 +0000  369728 bytes for ./Payload/GalleryViewer.app/Frameworks/libswiftDarwin.dylib
+copying file ./Payload/GalleryViewer.app/Frameworks/libswiftFoundation.dylib ... 
+2020-02-13 06:42:47 +0000  8479552 bytes for ./Payload/GalleryViewer.app/Frameworks/libswiftFoundation.dylib
+copying file ./Payload/GalleryViewer.app/embedded.mobileprovision ... 
+2020-02-13 06:42:47 +0000  37776 bytes for ./Payload/GalleryViewer.app/embedded.mobileprovision
+copying file ./Payload/GalleryViewer.app/Info.plist ... 
+2020-02-13 06:42:47 +0000  1476 bytes for ./Payload/GalleryViewer.app/Info.plist
+copying file ./Payload/GalleryViewer.app/PkgInfo ... 
+2020-02-13 06:42:47 +0000  8 bytes for ./Payload/GalleryViewer.app/PkgInfo
+copying file ./AppThinning.plist ... 
+228 bytes for ./AppThinning.plist
+2020-02-13 06:42:47 +0000  /usr/bin/ditto exited with 0
+2020-02-13 06:42:47 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2020-02-13 06:42:47 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2020-02-13 06:42:47 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2020-02-13 06:42:48 +0000  Processing step: IDEDistributionCreateManifestStep
